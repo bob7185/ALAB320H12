@@ -1,0 +1,14 @@
+*{
+    border-left: lightgrey 5px;
+}
+
+body{
+    min-height: 100%;
+    font-family: sans-serif;
+    max-width: 1000px;
+}
+
+header main footer{
+padding-top: 1rem;
+
+}
